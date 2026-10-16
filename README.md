@@ -1,1 +1,1 @@
-Can't figure out how to connect javascript to the html or get most of the code working. 
+Can't figure out how to connect javascript to the html or get most of the code working based on what I know.
